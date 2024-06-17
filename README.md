@@ -11,7 +11,9 @@
     <br/>
   </p>
 </p>
-
+<p align="center">
+<a href="https://github.com/zzrftixx"><img title="Autor" src="https://img.shields.io/badge/Author-zzrftixx-blue?style=for-the-badge&logo=github"></a> <a href="https://github.com/zzrftixx"><img title="Report" src="https://img.shields.io/badge/Copyring-2024-red?style=for-the-badge&logo=github"></a>
+<p>
 <p>
 Toko buku masa kini menghadapi tantangan dalam mengelola inventaris dan memberikan rekomendasi buku yang personal di tengah persaingan dengan platform online. Sistem Manajemen Inventaris Toko Buku berbasis konsol hadir untuk mengatasi masalah ini. Aplikasi ini memungkinkan pemilik toko buku untuk mencatat stok buku secara digital, melacak ketersediaan, dan membuat keputusan pembelian yang lebih tepat. Fitur rekomendasi buku yang didasarkan pada riwayat pembelian pelanggan juga meningkatkan pengalaman berbelanja dan mendorong penjualan. Dengan antarmuka yang sederhana, aplikasi ini menjadi solusi praktis bagi toko buku untuk meningkatkan efisiensi operasional dan pelayanan pelanggan, serta tetap bersaing di pasar yang kompetitif.
 </p>
